@@ -1,13 +1,31 @@
 # Building Annotation Tool
 
-# Frontend
+## Progress
+
+![](https://geps.dev/progress/1)
+
+## Frontend
 
 - React
 
-# Backend
+## Backend
 
 - Node
 
-# Data Storage
+## Data Storage
 
 - JSON file
+
+## TODO
+
+### Authentication
+
+- [ ] Login
+- [ ] Register
+- [ ] Email Verification
+
+### Tool
+
+- [ ] CSS
+- [ ] Debug
+- [ ] Work Distribution
